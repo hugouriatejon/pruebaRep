@@ -84,4 +84,8 @@ public class Date {
       return false;
     }
   }
+  
+  public void metodoPropietario() {
+	    System.out.println("Metodo añadido por el owner");
+	}
 }
